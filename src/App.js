@@ -17,6 +17,9 @@ function App() {
         >
           Learn Deploy with github
         </a>
+        <div>
+          Tao làm được rồi giờ học cái tiếp theo thôi
+        </div>
       </header>
     </div>
   );
